@@ -1,7 +1,7 @@
 # Budget-App: <a target="_blank" href="https://budget-app-using-react.netlify.app">Visit Here</a>
  
 <a href="https://budget-app-using-react.netlify.app" target="_blank">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWVmZDk0ZTMyNTBhZWRmMDIwYmJlNDhhZGU5ZGJhZTllOTAxYzA4OSZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/MtqxT2iaikX8huZUVV/giphy.gif"/>
+<img src="https://media.giphy.com/media/MtqxT2iaikX8huZUVV/giphy.gif" width="100%" alt="budget-app"/>
 </a>
  
 ### Budget Tracking App Created Using React 
